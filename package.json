@@ -2,15 +2,15 @@
   "name": "karma-sinon-chrome",
   "description": "A Karma plugin - adapter for sinon-chrome",
   "version": "0.2.1",
-  "author": "9joneg",
+  "author": "zhanghuimeng",
   "dependencies": {
     "sinon-chrome": "^2.2.4"
   },
   "devDependencies": {
     "di": "0.0.1",
-    "mocha": "^2.4.5",
-    "snazzy": "^3.0.1",
-    "standard": "^6.0.8"
+    "mocha": "^5.0.0",
+    "snazzy": "^7.0.0",
+    "standard": "^10.0.3"
   },
   "keywords": [
     "karma-framework",
